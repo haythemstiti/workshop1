@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: cdb949a83724cee4fae1605f4807eb3e
+timeCreated: 1447253734
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero1_0
+    21300002: Hero1_1
+    21300004: Hero1_2
+    21300006: Hero1_3
+    21300008: Hero1_4
+    21300010: Hero1_5
+    21300012: Hero1_6
+    21300014: Hero1_7
+    21300016: Hero1_8
+    21300018: Hero1_9
+    21300020: Hero1_10
+    21300022: Hero1_11
+    21300024: Hero1_12
+    21300026: Hero1_13
+    21300028: Hero1_14
+    21300030: Hero1_15
+    21300032: Hero1_16
+    21300034: Hero1_17
+    21300036: Hero1_18
+    21300038: Hero1_19
+    21300040: Hero1_20
+    21300042: Hero1_21
+    21300044: Hero1_22
+    21300046: Hero1_23
+    21300048: Hero1_24
+    21300050: Hero1_25
+    21300052: Hero1_26
+    21300054: Hero1_27
+    21300056: Hero1_28
+    21300058: Hero1_29
+    21300060: Hero1_30
+    21300062: Hero1_31
+    21300064: Hero1_32
+    21300066: Hero1_33
+    21300068: Hero1_34
+    21300070: Hero1_35
+    21300072: Hero1_36
+    21300074: Hero1_37
+    21300076: Hero1_38
+    21300078: Hero1_39
+    21300080: Hero1_40
+    21300082: Hero1_41
+    21300084: Hero1_42
+    21300086: Hero1_43
+    21300088: Hero1_44
+    21300090: Hero1_45
+    21300092: Hero1_46
+    21300094: Hero1_47
+    21300096: Hero1_48
+    21300098: Hero1_49
+    21300100: Hero1_50
+    21300102: Hero1_51
+    21300104: Hero1_52
+    21300106: Hero1_53
+    21300108: Hero1_54
+    21300110: Hero1_55
+    21300112: Hero1_56
+    21300114: Hero1_57
+    21300116: Hero1_58
+    21300118: Hero1_59
+    21300120: Hero1_60
+    21300122: Hero1_61
+    21300124: Hero1_62
+    21300126: Hero1_63
+    21300128: Hero1_64
+    21300130: Hero1_65
+    21300132: Hero1_66
+    21300134: Hero1_67
+    21300136: Hero1_68
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hero1_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 7325
+        width: 377
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 7134
+        width: 363
+        height: 647
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_2
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 7134
+        width: 359
+        height: 642
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_3
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 7134
+        width: 345
+        height: 642
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_4
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 7134
+        width: 358
+        height: 642
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 6634
+        width: 487
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 6456
+        width: 346
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_7
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 6456
+        width: 345
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_8
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 6456
+        width: 349
+        height: 651
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_9
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 6456
+        width: 346
+        height: 651
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_10
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 6457
+        width: 345
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_11
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 6456
+        width: 345
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_12
+      rect:
+        serializedVersion: 2
+        x: 4994
+        y: 6456
+        width: 342
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_13
+      rect:
+        serializedVersion: 2
+        x: 5668
+        y: 6456
+        width: 345
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6040
+        width: 253
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 6027
+        width: 155
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_16
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 5779
+        width: 430
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_17
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 5779
+        width: 425
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_18
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 5779
+        width: 399
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_19
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 5779
+        width: 354
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_20
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 5783
+        width: 395
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_21
+      rect:
+        serializedVersion: 2
+        x: 4281
+        y: 5783
+        width: 417
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_22
+      rect:
+        serializedVersion: 2
+        x: 4941
+        y: 5783
+        width: 448
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_23
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 5783
+        width: 421
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_24
+      rect:
+        serializedVersion: 2
+        x: 6323
+        y: 5783
+        width: 395
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_25
+      rect:
+        serializedVersion: 2
+        x: 7019
+        y: 5779
+        width: 354
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_26
+      rect:
+        serializedVersion: 2
+        x: 7674
+        y: 5779
+        width: 399
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_27
+      rect:
+        serializedVersion: 2
+        x: 8339
+        y: 5779
+        width: 425
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 5353
+        width: 124
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5340
+        width: 417
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_30
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 5105
+        width: 363
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_31
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 5114
+        width: 394
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_32
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 5105
+        width: 425
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_33
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 5105
+        width: 408
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 4600
+        width: 482
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_35
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 4427
+        width: 376
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3940
+        width: 702
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_37
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3750
+        width: 350
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_38
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 3750
+        width: 403
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_39
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 3750
+        width: 349
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_40
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 3750
+        width: 390
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3227
+        width: 491
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_42
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 3072
+        width: 492
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2589
+        width: 470
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_44
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2394
+        width: 518
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1898
+        width: 292
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_46
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1721
+        width: 518
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_47
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1717
+        width: 514
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_48
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1717
+        width: 519
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_49
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 1717
+        width: 584
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_50
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1721
+        width: 554
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_51
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 1717
+        width: 585
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1203
+        width: 563
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_53
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1043
+        width: 376
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_54
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1043
+        width: 381
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_55
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1043
+        width: 377
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_56
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1043
+        width: 385
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_57
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1043
+        width: 372
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_58
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 1043
+        width: 385
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 676
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_60
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 366
+        width: 358
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_61
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 365
+        width: 390
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_62
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 365
+        width: 421
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_63
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 365
+        width: 430
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_64
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 365
+        width: 443
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_65
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 365
+        width: 430
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_66
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 365
+        width: 420
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_67
+      rect:
+        serializedVersion: 2
+        x: 5650
+        y: 365
+        width: 390
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero1_68
+      rect:
+        serializedVersion: 2
+        x: 6341
+        y: 366
+        width: 359
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
